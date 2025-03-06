@@ -1,2 +1,2 @@
 # reporty
-Knowledge graph from police reports &amp; associated data
+Identifying semantic information trapped in police narrative reports
